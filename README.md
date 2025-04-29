@@ -9,4 +9,5 @@ Para resetar o sandbox use a letra (c)
 ![image](https://github.com/user-attachments/assets/6cbe9b5f-273b-4fb3-8a29-abcb41479ee8)
 
 Para executar esse sandbox use o comando ```java Principal.java``` no terminal
+
 ---------Feito com a ajuda do Gemini 2.5 Pro---------
